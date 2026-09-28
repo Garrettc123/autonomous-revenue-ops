@@ -1,0 +1,7 @@
+{
+  "system": "autonomous-revenue-ops",
+  "tier": "CASH",
+  "stamp": "full-kernel",
+  "stamped_by": "garcar-repo-foundry",
+  "skus": ["lead-leak-audit", "revenue-recovery-sprint", "ai-growth-engine"]
+}
